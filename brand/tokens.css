@@ -1,0 +1,10 @@
+:root {
+  /* no dank. — Brand Tokens */
+  --color-rauch: #6B645A;   /* Text, Wortmarke "no" */
+  --color-stein: #948B7E;   /* sekundäre Elemente, Wortmarke "dank" */
+  --color-lime:  #D8FF3E;   /* Akzent ~5%: Gestankpunkte, Logo-Punkt */
+  --color-papier: #EFEAE0;  /* Hintergrund */
+
+  --font-wortmarke: 'Inter', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+}
